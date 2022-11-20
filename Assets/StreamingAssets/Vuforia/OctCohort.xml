@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pcgamerJan2022" size="0.206375 0.270933" />
+    <ImageTarget name="pcgamerFeb2022" size="0.206375 0.269875" />
+  </Tracking>
+</QCARConfig>
